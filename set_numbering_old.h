@@ -1,5 +1,5 @@
-#ifndef _set_numbering_
-#define _set_numbering_
+#ifndef _set_numbering_v0_
+#define _set_numbering_v0_
 
 #include <tuple>
 #include <map>
