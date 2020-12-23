@@ -10,7 +10,10 @@
   }
 ```
 
+
 メンバ関数  
+--
+
 ・add 
 ```c++
 void add(Args... args);
